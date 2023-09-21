@@ -16,13 +16,13 @@
 <br>
 <p>
   <h3>Link Utili</h3>
-  <a href="https://arcadiamc.it">Sito</a>
+  Sito -> <a href="https://arcadiamc.it">https://arcadiamc.it</a>
   <br>
-  <a href="https://discord.arcadiamc.it">Discord</a>
+  Discord -> <a href="https://discord.arcadiamc.it">https://discord.arcadiamc.it</a>
   <br>
-  <a href="ts3server://ts.arcadiamc.it?port=9987">TeamSpeak</a>
+  <a>TeamSpeak -> ts.arcadiamc.it</a>
   <br>
-  <a href="https://t.me/ArcadiaNetwork">Telegram</a>
+  Telegram -> <a href="https://t.me/ArcadiaNetwork">https://t.me/ArcadiaNetwork</a>
 </p>
 
 
