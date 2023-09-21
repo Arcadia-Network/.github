@@ -1,5 +1,6 @@
-
-<img align="center" src="https://www.arcadiamc.it/home/img/logo.png" width=400 height=400/>
+<p align="center">
+  <img src="https://www.arcadiamc.it/home/img/logo.png" width=400 height=400/>
+</p>
 <h1 align="center">ArcadiaMC</h1>
 <p>
   <h2>Descrizione Progetto</h2>
