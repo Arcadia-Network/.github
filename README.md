@@ -5,8 +5,11 @@
 <p>
   <h3>Descrizione Progetto</h3>
   ArcadiaMC nasce nel 2023 dall'idea di
+  <br>
   riportare Minecraft Italia ai tempi d'oro
+  <br>
   dando SkyWars di qualità alla community
+  <br>
   in un periodo dove ce n'è carenza
 </p>
 
