@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.arcadiamc.it/home/img/logo.png" width=400 height=400/>
+  <img src="https://www.arcadiamc.it/home/img/logo.png" width=300 height=300/>
 </p>
 <h1 align="center">ArcadiaMC</h1>
 <p>
