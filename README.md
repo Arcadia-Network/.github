@@ -24,5 +24,13 @@
   <br>
   Telegram -> <a href="https://t.me/ArcadiaNetwork">https://t.me/ArcadiaNetwork</a>
 </p>
+<br>
+<br>
+<p>
+  ArcadiaMC © 2023
+  <br>
+  Non siamo affiliati con Mojang, AB.
+</p>
+
 
 
