@@ -13,7 +13,6 @@
   in un periodo dove ce n'è carenza
 </p>
 <br>
-<br>
 <p>
   <h3>Link Utili</h3>
   Sito -> <a href="https://arcadiamc.it">https://arcadiamc.it</a>
