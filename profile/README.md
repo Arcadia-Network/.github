@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/r8d9StM.png" width=300 height=300/>
+  <img src="[https://i.imgur.com/r8d9StM.png](https://i.imgur.com/8GT6lSn.png)" width=300 height=300/>
 </p>
 <h1 align="center">ArcadiaMC</h1>
 <p>
